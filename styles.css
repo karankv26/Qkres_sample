@@ -12,12 +12,12 @@ p {
   font-family: 'Montserrat', sans-serif;
 }
 
-iframe {
+/* iframe {
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
   border-radius: 10px;
-}
+} */
 
 /* id's */
 
@@ -355,6 +355,14 @@ margin: 2px;
 position: relative;
     overflow-x: hidden;
   }
+  .hero {
+  width: 100%;
+  height: 65vh;
+  position: relative;
+  overflow-x: hidden;
+  color: #FFF;
+  text-align: center;
+}
 
   .progress-container {
     height: 3px;
@@ -373,9 +381,9 @@ position: relative;
     display: block;
   }
 
-  iframe {
+/*   iframe {
     display: flex;
-  }
+  } */
   #first .boxes{
     height:540px;
   }
