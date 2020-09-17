@@ -36,9 +36,7 @@ p {
   display: flex;
   overflow: hidden;
 } */
-#intro {
-  -webkit-transform:transform3d(0,0,0);
-}
+
 
 #second .boxes {
   background: #40a8c4;
@@ -121,6 +119,9 @@ margin: 2px;
   background: #fff;
   position: fixed;
   z-index: 1030;
+ -webkit-transform:transform3d(0,0,0);
+  -webkit-overflow-scrolling: touch;
+
 }
 .progress-bar {
   height: 4px;
