@@ -356,7 +356,7 @@ margin: 2px;
   .boxes {
 /*     width: 85%; */
     margin: 10px auto;
-/* position: relative; */
+position: relative;
     overflow-x: hidden;
   }
 /*   .hero {
