@@ -353,7 +353,7 @@ margin: 2px;
   .boxes {
 /*     width: 85%; */
     margin: 10px auto;
-position:absolute;
+/* position:absolute; */
     overflow-x: hidden;
   }
 /*   .hero {
