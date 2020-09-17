@@ -36,6 +36,9 @@ p {
   display: flex;
   overflow: hidden;
 } */
+#intro {
+  -webkit-transform:transform3d(0,0,0);
+}
 
 #second .boxes {
   background: #40a8c4;
