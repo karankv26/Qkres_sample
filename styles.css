@@ -355,7 +355,7 @@ margin: 2px;
 /* media query for responsiveness in small screens */
 @media only screen and (max-width:700px) {
   .boxes {
-    width: 85%;
+/*     width: 85%; */
     margin: 10px auto;
 /* position: relative; */
     overflow-x: hidden;
