@@ -129,9 +129,9 @@ margin: 2px;
   font-family: 'Lato', sans-serif;
   color: #1a1a2e;
 }
-.hero .hero-center h1 img {
+/* .hero .hero-center h1 img {
   height: 64px;
-}
+} */
 .hero {
   width: 100%;
   height: 70vh;
@@ -194,14 +194,14 @@ margin: 2px;
   }
 
 /* master div */
-.wrap {
+/* .wrap {
   justify-content: center;
-}
+} */
 /* sections --> boxes */
 .boxes {
   background-color: #eeeeee;
   border-radius: 20px;
-  padding: 22px;
+  padding: 20px;
   overflow: hidden;
   width: 100%;
   margin: 10px 0;
@@ -209,8 +209,8 @@ margin: 2px;
 /* wrap-->sections-->boxes-->box-1 */
 .box-1 {
   display: flex;
-  text-align: center;
-  align-items: center;
+/*   text-align: center;
+  align-items: center; */
   justify-content: center;
   padding-top: 5px;
   font-family: 'Montserrat', sans-serif;
@@ -219,7 +219,7 @@ margin: 2px;
 .box-2 {
   display: flex;
   flex-direction: column;
-  align-items: center;
+/*   align-items: center; */
   justify-content: center;
   font-family: 'Montserrat', sans-serif;
 }
@@ -227,8 +227,8 @@ margin: 2px;
 .box-3{
   display: flex;
   flex-direction: column;
-  text-align: center;
-  align-items: center;
+/*   text-align: center;
+  align-items: center; */
   justify-content: center;
 }
 /* bootstrap cards */
@@ -244,7 +244,7 @@ margin: 2px;
 
 
 .about {
-  padding: 12px;
+/*   padding: 12px; */
 /*   visibility: visible; */
 }
 
@@ -266,10 +266,10 @@ margin: 2px;
 /* footer section social media icons */
 .social-media {
   display: flex;
-  align-items: center;
+/*   align-items: center; */
   justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
+/*   margin-left: auto;
+  margin-right: auto; */
   padding: 20px;
 }
 .social-media .button {
@@ -354,17 +354,17 @@ margin: 2px;
   .boxes {
     width: 100%;
     margin: 10px auto;
-position: relative;
+/* position: relative; */
     overflow-x: hidden;
   }
-  .hero {
+/*   .hero {
   width: 100%;
   height: 65vh;
   position: relative;
   overflow-x: hidden;
   color: #FFF;
   text-align: center;
-}
+} */
 
   .progress-container {
     height: 3px;
@@ -374,10 +374,10 @@ position: relative;
     height: 3px;
   }
 
-  .backgrounds .background {
+/*   .backgrounds .background {
     background-image: none;
     background-color: #fefefe;
-  }
+  } */
 
   i {
     display: block;
