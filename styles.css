@@ -29,11 +29,9 @@ p {
   width: 100%;
   z-index: -1;
 }
-
-/* #intro .boxes .about {
-  display: flex;
-  overflow: hidden;
-} */
+ #intro .boxes {
+  position:absolute;
+} 
 
 
 #second .boxes {
@@ -356,7 +354,7 @@ margin: 2px;
   .boxes {
 /*     width: 85%; */
     margin: 10px auto;
-position: relative;
+position:absolute;
     overflow-x: hidden;
   }
 /*   .hero {
