@@ -144,7 +144,7 @@ margin: 2px;
   width: 100%;
   position: absolute;
   top: 35%;
-  left: 0;
+/*   left: 0; */
 /*   -webkit-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
   transform: translate(0, -50%); */
@@ -245,7 +245,7 @@ margin: 2px;
 
 .about {
   padding: 12px;
-  visibility: visible;
+/*   visibility: visible; */
 }
 
 
@@ -390,12 +390,12 @@ position: relative;
     height:540px;
   }
 
-  #fourth {
+/*   #fourth {
     width: 85%;
     margin: 10px auto;
     position: relative;
     overflow-x: hidden;
-  }
+  } */
 
   #fourth .container-fluid .body {
     text-align: left;
