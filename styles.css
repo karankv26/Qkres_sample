@@ -29,10 +29,6 @@ p {
   width: 100%;
   z-index: -1;
 }
- #intro .boxes {
-  position:absolute;
-} 
-
 
 #second .boxes {
   background: #40a8c4;
@@ -61,6 +57,7 @@ p {
 #fourth .container-fluid .body {
   text-align: center;
 }
+
 #fifth .boxes {
   background: #eeeeee;
   border-radius: 0px;
@@ -113,7 +110,9 @@ margin: 2px;
   width: 100%;
   height: 4px;
   background: #fff;
-  position: fixed;
+ position:absolute;
+  left:0;
+  bottom:0;
   z-index: 1030;
  -webkit-transform:transform3d(0,0,0);
   -webkit-overflow-scrolling: touch;
