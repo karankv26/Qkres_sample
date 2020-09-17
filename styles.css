@@ -32,10 +32,10 @@ p {
   z-index: -1;
 }
 
-#intro .boxes .about {
+/* #intro .boxes .about {
   display: flex;
   overflow: hidden;
-}
+} */
 
 #second .boxes {
   background: #40a8c4;
@@ -144,10 +144,10 @@ margin: 2px;
   width: 100%;
   position: absolute;
   top: 35%;
-/*   left: 0; */
-/*   -webkit-transform: translate(0, -50%);
+  left: 0;
+  -webkit-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
-  transform: translate(0, -50%); */
+  transform: translate(0, -50%);
 }
 /* home page background */
 /* .backgrounds {
