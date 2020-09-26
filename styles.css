@@ -13,7 +13,7 @@ p {
 }
 
 #head {
-  height: 450px;
+  height: 600px;
   width: 100%;
 }
 
@@ -164,22 +164,22 @@ margin: 2px;
   width: 0%;
 }
 /* home page header */
-.hero .hero-center h1 {
+#head h1 {
   font-family: 'Lato', sans-serif;
   color: #1a1a2e;
 }
 /* .hero .hero-center h1 img {
   height: 64px;
 } */
-.hero {
+/* .hero {
   width: 100%;
   height: 70vh;
-/*   position: relative; */
+
   overflow-x: hidden;
   color: #FFF;
   text-align: center;
-}
-.hero-center {
+} */
+/* .hero-center {
   width: 100%;
   position: absolute;
   top: 35%;
@@ -187,7 +187,7 @@ margin: 2px;
   -webkit-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
   transform: translate(0, -50%);
-}
+} */
 /* home page background */
 /* .backgrounds {
   width: 100%;
