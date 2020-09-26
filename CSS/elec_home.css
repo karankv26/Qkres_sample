@@ -1,7 +1,7 @@
 /* html tags */
 body {
   margin-top: 60px;
-  color: #9228b3f;
+  color: #b81a1af;
   overflow-x: hidden;
 }
 h1{
@@ -23,7 +23,7 @@ p {
 
 #end .foo {
   border-top: 1px solid;
-  background-color: #848ccf;
+  background-color: #b81a1af;
   text-align: center;
   padding: 15px;
 }
