@@ -12,6 +12,18 @@ p {
   font-family: 'Montserrat', sans-serif;
 }
 
+#head {
+  height: 450px;
+  width: 100%;
+}
+
+#title {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* iframe {
   justify-content: center;
   margin-left: auto;
