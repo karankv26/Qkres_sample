@@ -1,3 +1,3 @@
 # Qkres_sample
 
-front end files needed for the upgraded website!
+Front-end files needed for the upgraded website!
