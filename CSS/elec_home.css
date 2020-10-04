@@ -1,7 +1,8 @@
 /* html tags */
 body {
   margin-top: 60px;
-  color:#393b44;
+  background-color:black;
+  color:white;
   overflow-x: hidden;
 }
 h1{
